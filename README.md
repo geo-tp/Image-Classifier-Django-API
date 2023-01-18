@@ -1,4 +1,4 @@
-Image Classifer Django API
+Image Classifier Django API
 ===================
 
 Submit an image and get predictions of its content with tensorflow ResNet50 model through an API endpoint.
