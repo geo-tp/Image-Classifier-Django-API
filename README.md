@@ -7,8 +7,14 @@ Example
 ----
 
 ![](p1.webp)
-![](p2.png)
 
+```
+{
+    "id": 3,
+    "img": "http://localhost:8000/media/example.jpg",
+    "predictions": "Leopard at 97%. Cheetah at 3%. Jaguar at 1%."
+}
+```
 
 Installation
 -----
